@@ -1,0 +1,15 @@
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\bin\Debug\TicTacToe2.exe.config
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\bin\Debug\TicTacToe2.exe
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\bin\Debug\TicTacToe2.pdb
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.csprojAssemblyReference.cache
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\MainWindow.g.cs
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\App.g.cs
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2_MarkupCompile.cache
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2_MarkupCompile.lref
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\MainWindow.baml
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.g.resources
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.Properties.Resources.resources
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.csproj.GenerateResource.cache
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.exe
+C:\Users\SW Fan 3000\source\repos\TicTacToe2\obj\Debug\TicTacToe2.pdb
